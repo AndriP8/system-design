@@ -1,3 +1,6 @@
 [submodule "twitter"]
 	path = twitter
 	url = https://github.com/AndriP8/twitter.git
+[submodule "autocomplete"]
+	path = autocomplete
+	url = https://github.com/AndriP8/autocomplete.git
