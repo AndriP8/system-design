@@ -4,3 +4,6 @@
 [submodule "autocomplete"]
 	path = autocomplete
 	url = https://github.com/AndriP8/autocomplete.git
+[submodule "travel-booking"]
+	path = travel-booking
+	url = https://github.com/AndriP8/travel-booking.git
