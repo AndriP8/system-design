@@ -7,3 +7,6 @@
 [submodule "travel-booking"]
 	path = travel-booking
 	url = https://github.com/AndriP8/travel-booking.git
+[submodule "e-commerce"]
+	path = e-commerce
+	url = https://github.com/AndriP8/e-commerce.git
